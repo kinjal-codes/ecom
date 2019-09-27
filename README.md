@@ -1,5 +1,5 @@
 
-Demo : [http://ecomrentals.herokuapp.com/](https://bike-rentals1.herokuapp.com/)
+Demo : [http://ecomrentals.herokuapp.com/](http://ecomrentals.herokuapp.com/)
  (Demo link is hosted on heroku so might take a while to load since apps go to sleep on free account.)
 
 Technology Stack : 
