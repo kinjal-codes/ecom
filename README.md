@@ -1,3 +1,22 @@
+
+Demo : [http://ecomrentals.herokuapp.com/](https://bike-rentals1.herokuapp.com/)
+ (Demo link is hosted on heroku so might take a while to load since apps go to sleep on free account.)
+
+Technology Stack : 
+-  React
+-  Bootstrap
+- HTML5
+- CSS
+- Javascript (ES6)
+
+
+Components :
+- Catalog
+- Poucts
+- Cart
+- Checkout
+- OrderComplete
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
